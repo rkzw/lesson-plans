@@ -1,1 +1,1 @@
-Lesson plans for Contemporary Society, Geography, and History
+1. Lesson plans for Contemporary Society, Geography, and History
