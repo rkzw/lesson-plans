@@ -5,5 +5,7 @@ Level: English speaker students who are under the education in Japanese Jr. and 
 - Contemporary Society
 - Geography
 - History
-  Soviet Union from the perspective of religion, economy, politics, and the nation=state.
-  Scolasticism as the Aristotlization of the Europe.
+  - Soviet Union from the perspective of religion, economy, politics, and the nation=state.
+  - Scolasticism as the Aristotlization of the Europe.
+    - Muslims kept the legacy of ancient Greek that extincted in the mid-age Europe including the philosophy of Aristotle.
+
