@@ -3,7 +3,7 @@ For the sake in order to learnize this moment.
 Target: The learners who wish to have basic literacy to face with this world.  
 Level: English speaker students who are under the education in Japanese Jr. and Sr. high school.
 ### Contemporary Society
-###  Geography
+### Geography
 ### History
   1. Soviet Union from the perspective of religion, economy, politics, and the nation=state.
     - Union of Soviet Socialist Republics
