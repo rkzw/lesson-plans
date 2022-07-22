@@ -9,6 +9,7 @@ Level: English speaker students who are under the education in Japanese Jr. and 
     - Union of Soviet Socialist Republics
       - Union and Politics
       - Soviet and Religion
+        - Soviet, a general noun meaning a council in Russian, utilized to describe as a specific political state called Soviet Union in other languages like English or Japanese.
       - Socialist and Economy
       - Republics and Nation=State
   - Scolasticism as the Aristotlization of the Europe.
